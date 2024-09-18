@@ -1,0 +1,51 @@
+{
+  "name": "ds",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@ant-design/icons": "^5.2.4",
+    "@babel/plugin-proposal-private-property-in-object": "7.21.11",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^14.0.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@web3-storage/w3up-client": "^12.4.1",
+    "antd": "^5.10.1",
+    "cos-js-sdk-v5": "^1.4.20",
+    "dva": "^2.6.0-beta.19",
+    "ganache": "^7.9.1",
+    "helia": "^4.1.0",
+    "ipfs-http-client": "^60.0.1",
+    "multihashes": "^4.0.3",
+    "object-assign": "^4.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-highlight-words": "^0.20.0",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "5.0.1",
+    "truffle": "^5.11.3",
+    "typescript": "^5.2.2",
+    "web-vitals": "^2.1.4",
+    "web3": "^4.1.1",
+    "web3.storage": "^4.5.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
